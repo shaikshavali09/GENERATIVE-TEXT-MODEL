@@ -32,3 +32,5 @@ The applications of text generation models are immense. They can be used in chat
 
 In conclusion, the Text Generation Model using GPT or LSTM demonstrates the potential of AI in automating and enhancing written communication. While LSTMs provide a foundational understanding of sequence modeling, GPT showcases the cutting-edge capabilities of transformer-based architectures in producing context-aware and coherent text. This project highlights both educational and practical value, equipping learners with hands-on experience in one of the most impactful areas of modern AI.
 
+<img width="296" height="312" alt="Image" src="https://github.com/user-attachments/assets/325205b1-bd4b-49ef-a2ee-5a3457deee1e" />
+
